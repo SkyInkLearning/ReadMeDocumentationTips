@@ -1,4 +1,24 @@
-# 🧩 Markdown Code Block Syntax Reference
+## Linkning:
+
+Use 
+
+```markdown
+
+[]()
+
+Simon [GITHUB](https://github.com/SimonR-prog) | [LINKEDIN](www.linkedin.com/in/simon-r-250a5232a)
+
+```
+
+To show of links in markdown like this:
+
+Simon [GITHUB](https://github.com/SimonR-prog) | [LINKEDIN](www.linkedin.com/in/simon-r-250a5232a)
+
+
+
+
+
+## Showing of code in the readme:
 
 You can display code in Markdown using:
 
@@ -8,11 +28,12 @@ YOUR CODE HERE
 ```
 ````
 
-Here’s a comprehensive list of language identifiers you can use for syntax highlighting in Markdown.
+List of language identifiers you can use for syntax highlighting in Markdown:
 
 | Category | Language / File Type | Markdown Syntax (` ```language `) | Example File Extension |
 |-----------|---------------------|-----------------------------------|------------------------|
-| 💻 **Backend / General Programming** | C# | `csharp` or `cs` | `.cs` |
+| **Backend / Programming** |  |  | |
+|  | C# | `csharp` or `cs` | `.cs` |
 |  | C++ | `cpp` | `.cpp`, `.h` |
 |  | C | `c` | `.c`, `.h` |
 |  | Java | `java` | `.java` |
@@ -28,7 +49,8 @@ Here’s a comprehensive list of language identifiers you can use for syntax hig
 |  | R | `r` | `.r` |
 |  | Perl | `perl` | `.pl` |
 |  | Haskell | `haskell` | `.hs` |
-| 🌐 **Web / Frontend** | HTML | `html` | `.html`, `.htm` |
+| **Web / Frontend**  |  |  | |
+|  | HTML | `html` | `.html`, `.htm` |
 |  | Razor | `razor` | `.cshtml` |
 |  | CSS | `css` | `.css` |
 |  | SCSS / SASS | `scss` or `sass` | `.scss`, `.sass` |
@@ -37,24 +59,28 @@ Here’s a comprehensive list of language identifiers you can use for syntax hig
 |  | TypeScript | `ts` | `.ts` |
 |  | TSX (React + TypeScript) | `tsx` | `.tsx` |
 |  | Vue | `vue` | `.vue` |
-| ⚙️ **Config / Data Formats** | JSON | `json` | `.json` |
+| **Config / Data Formats**  |  |  | |
+|  | JSON | `json` | `.json` |
 |  | YAML | `yaml` or `yml` | `.yaml`, `.yml` |
 |  | TOML | `toml` | `.toml` |
 |  | INI | `ini` | `.ini` |
 |  | XML | `xml` | `.xml` |
 |  | Properties | `properties` | `.properties` |
-| 🐚 **Shell / Scripts** | Bash / Shell | `bash` or `sh` | `.sh` |
+| **Shell / Scripts** 
+|  | Bash / Shell | `bash` or `sh` | `.sh` |
 |  | PowerShell | `powershell` | `.ps1` |
 |  | Batch | `bat` or `cmd` | `.bat` |
 |  | Dockerfile | `dockerfile` | `Dockerfile` |
 |  | Makefile | `makefile` | `Makefile` |
 |  | SQL | `sql` | `.sql` |
-| 🧪 **Markup / Text / Docs** | Markdown | `markdown` or `md` | `.md` |
+| **Markup / Text / Docs**  |  |  | |
+|  | Markdown | `markdown` or `md` | `.md` |
 |  | LaTeX | `latex` | `.tex` |
 |  | CSV | `csv` | `.csv` |
 |  | Diff / Patch | `diff` | `.diff`, `.patch` |
 |  | Plaintext | *(no language or `text`)* | `.txt` |
-| 🧠 **Other / Specialized** | GraphQL | `graphql` | `.graphql`, `.gql` |
+| **Other / Specialized** |  |  |  |
+|  | GraphQL | `graphql` | `.graphql`, `.gql` |
 |  | JSON5 | `json5` | `.json5` |
 |  | Nginx | `nginx` | `.conf` |
 |  | Apache | `apache` | `.conf` |
@@ -67,9 +93,6 @@ Here’s a comprehensive list of language identifiers you can use for syntax hig
 |  | VBA | `vba` | `.vba` |
 |  | Visual Basic | `vb` | `.vb` |
 
----
-
-### 💡 Tip:
 If a language isn’t listed, you can still write:
 
 ````markdown
@@ -78,4 +101,4 @@ Your code here
 ```
 ````
 
-to display it without syntax highlighting.
+To display it without syntax highlighting.
