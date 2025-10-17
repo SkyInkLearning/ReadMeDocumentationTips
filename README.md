@@ -6,13 +6,13 @@ Use
 
 []()
 
-Simon [GITHUB](https://github.com/SimonR-prog) | [LINKEDIN](www.linkedin.com/in/simon-r-250a5232a)
+Simon [GitHub](https://github.com/SimonR-prog) | [LinkedIn](www.linkedin.com/in/simon-r-250a5232a)
 
 ```
 
 To show of links in markdown like this:
 
-Simon [GITHUB](https://github.com/SimonR-prog) | [LINKEDIN](www.linkedin.com/in/simon-r-250a5232a)
+Simon [GitHub](https://github.com/SimonR-prog) | [LinkedIn](www.linkedin.com/in/simon-r-250a5232a)
 
 
 
