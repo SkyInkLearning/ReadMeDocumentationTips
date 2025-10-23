@@ -14,8 +14,13 @@ To show of links in markdown like this:
 
 Simon [GitHub](https://github.com/SimonR-prog) | [LinkedIn](www.linkedin.com/in/simon-r-250a5232a)
 
+## Images:
 
+Drag and drop a image into the readme and than add the url to:
 
+```markdown
+<img src="" width="400">
+```
 
 
 ## Showing of code in the readme:
